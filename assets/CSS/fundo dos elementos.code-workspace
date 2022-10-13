@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../../../basico/fundo dos elementos"
+		},
+		{
+			"path": "../.."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "landpage"
+	}
+}
